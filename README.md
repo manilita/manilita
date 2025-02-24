@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manilita
 - 🌱 I’m currently learning HTML/CSS, JavaScript, Python for Data Science
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: AHHHHHHHHH (temporarily)
+- ⚡ Fun fact: I enjoy creating visual art in my spare time
 
 <!---
 manilita/manilita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
